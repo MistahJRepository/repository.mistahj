@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.mistahj" name="MistahJ Repo" version="1.0" provider-name="MistahJ">
+	<extension point="xbmc.addon.repository" name="MistahJ Repo">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/MistahJRepository/repository.mistahj/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/MistahJRepository/repository.mistahj/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/MistahJRepository/repository.mistahj/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">A place to watch your favorite shows online!</summary>
+		<description lang="en">This is the MistahJ Repository I built for Family & Friends to stream there favorite Tv Shows / Movies online!      Thank You for in advance for any feedback upon this Repository and Enjoy! :)</description>
+		<genre>anime,comedy,documentary,health,kids,livetv,movies,music,news,sports,tech,tvshows,wizard,canadian,usa</genre>
+	</extension>
+</addon>
